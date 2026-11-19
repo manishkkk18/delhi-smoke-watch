@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>India Smoke Watch has moved</title>
+    <link rel="canonical" href="https://manishkkk18.github.io/data/india/smoke-watch/" />
+    <meta name="robots" content="noindex, follow" />
+    <!-- Share previews (LinkedIn etc. don't run the redirect script, so old links still preview the app). -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="India from data" />
+    <meta property="og:url" content="https://manishkkk18.github.io/data/india/smoke-watch/" />
+    <meta property="og:title" content="India Smoke Watch" />
+    <meta property="og:description" content="Whose smoke is your city breathing today? Fires across India from NASA satellites, the winds that carry their smoke, and air quality in 12 cities." />
+    <meta property="og:image" content="https://manishkkk18.github.io/data/india/og/smoke-watch.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      // Forward to the same place on the new site: sub-path, query (?d=, ?hw=, ?city=…) and #section.
+      (function () {
+        var OLD = "/delhi-smoke-watch", NEW = "https://manishkkk18.github.io/data/india/smoke-watch";
+        var p = location.pathname, sub = p.indexOf(OLD) === 0 ? p.slice(OLD.length) : "/";
+        if (!sub || sub === "/index.html" || sub === "/404.html") sub = "/";
+        var to = NEW + sub + location.search + location.hash;
+        location.replace(to);
+        document.addEventListener("DOMContentLoaded", function () {
+          var a = document.getElementById("to");
+          a.href = to;
+          a.textContent = to;
+        });
+      })();
+    </script>
+    <!-- Without JavaScript: go to the new home of the app (the address's details can't be kept). -->
+    <noscript><meta http-equiv="refresh" content="0; url=https://manishkkk18.github.io/data/india/smoke-watch/" /></noscript>
+    <style>
+      body { margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 16px; box-sizing: border-box;
+        background: #14110f; color: #e8ecf5; font: 16px/1.5 system-ui, sans-serif; text-align: center; }
+      main { max-width: 560px; }
+      h1 { font-weight: 500; font-size: 24px; margin: 0 0 8px; }
+      a { color: #ff7a3d; word-break: break-all; display: inline-block; min-height: 44px; line-height: 44px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>This page has moved</h1>
+      <p>India Smoke Watch now lives at <a id="to" href="https://manishkkk18.github.io/data/india/smoke-watch/">https://manishkkk18.github.io/data/india/smoke-watch/</a></p>
+      <p>Taking you there… If nothing happens, click the link above.</p>
+    </main>
+  </body>
+</html>
