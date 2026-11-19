@@ -1,0 +1,910 @@
+{
+ "Agra|Uttar Pradesh": [
+  78.01,
+  27.175
+ ],
+ "Ahmedabad|Gujarat": [
+  72.58,
+  23.022
+ ],
+ "Ahmednagar|Maharashtra": [
+  74.749,
+  19.093
+ ],
+ "Aizawl|": [
+  92.718,
+  23.728
+ ],
+ "Ajmer|": [
+  74.639,
+  26.469
+ ],
+ "Ajmer|Rajasthan": [
+  74.639,
+  26.469
+ ],
+ "Akola|Maharashtra": [
+  77.192,
+  20.762
+ ],
+ "Alibag|": [
+  72.877,
+  18.65
+ ],
+ "Allahabad|Uttar Pradesh": [
+  81.834,
+  25.438
+ ],
+ "Ambagarh Chowki|Chhattisgarh": [
+  80.8,
+  20.496
+ ],
+ "Ambagarh Chowk|Chattisgarh": null,
+ "Ambala|Haryana": [
+  76.77,
+  30.384
+ ],
+ "Amravati|Maharashtra": [
+  77.644,
+  21.155
+ ],
+ "Anantapur|Andhra Pradesh": [
+  77.607,
+  14.678
+ ],
+ "Ananthapuramu|": [
+  78.418,
+  14.013
+ ],
+ "Anantnag|J&K": null,
+ "Anantnag|Jammu and Kashmir": [
+  75.185,
+  33.746
+ ],
+ "Arzoo|Arunachal Pradesh": [
+  95.761,
+  28.414
+ ],
+ "Aurangabad|Maharashtra": [
+  75.339,
+  19.877
+ ],
+ "Ayodhya|": [
+  82.205,
+  26.799
+ ],
+ "Azamgarh|": [
+  83.029,
+  26.024
+ ],
+ "Azamgarh|Uttar Pradesh": [
+  83.029,
+  26.024
+ ],
+ "Balangir|": [
+  83.167,
+  20.61
+ ],
+ "Balrampur|Chattisgarh": [
+  83.481,
+  23.628
+ ],
+ "Balrampur|Chhattisgarh": [
+  83.481,
+  23.628
+ ],
+ "Bankura|West Bengal": [
+  87.208,
+  23.132
+ ],
+ "Baramati|Maharashtra": [
+  74.453,
+  18.22
+ ],
+ "Bareilly|": [
+  79.405,
+  28.458
+ ],
+ "Bareilly|Uttar Pradesh": [
+  79.405,
+  28.458
+ ],
+ "Baripada|": [
+  86.731,
+  21.934
+ ],
+ "Barmer|": [
+  71.192,
+  25.581
+ ],
+ "Barmer|Rajasthan": [
+  71.192,
+  25.581
+ ],
+ "Bathinda|": [
+  75.047,
+  30.179
+ ],
+ "Belgavi|Karnataka": [
+  74.508,
+  15.85
+ ],
+ "Bengaluru|": [
+  77.59,
+  12.977
+ ],
+ "Bengaluru|Karnataka": [
+  77.59,
+  12.977
+ ],
+ "Bhadrachalam|": [
+  80.894,
+  17.669
+ ],
+ "Bhadradri Kothagudem|": [
+  80.571,
+  17.717
+ ],
+ "Bhatinda|": [
+  74.946,
+  30.207
+ ],
+ "Bhavnagar|Gujarat": [
+  72.142,
+  21.772
+ ],
+ "Bhiwani|": [
+  76.139,
+  28.793
+ ],
+ "Bhiwani|Haryana": [
+  76.139,
+  28.793
+ ],
+ "Bhopal|Madhya Pradesh": [
+  77.402,
+  23.258
+ ],
+ "Bhuj|Gujarat": [
+  69.668,
+  23.247
+ ],
+ "Bijapur|Karnataka": [
+  75.718,
+  16.827
+ ],
+ "Bijnor|Uttar Pradesh": [
+  78.482,
+  29.407
+ ],
+ "Bikaner|Rajasthan": [
+  73.317,
+  28.016
+ ],
+ "Bilaspur|Chattisgarh": [
+  82.137,
+  22.164
+ ],
+ "Bilaspur|Chhattisgarh": [
+  82.137,
+  22.164
+ ],
+ "Bokaro Steel City|Jharkhand": [
+  86.084,
+  23.658
+ ],
+ "Budaun|": [
+  79.123,
+  28.037
+ ],
+ "Chakradharpur|Jharkhand": [
+  85.627,
+  22.678
+ ],
+ "Chandigarh|Chandigarh": [
+  76.78,
+  30.733
+ ],
+ "Chatra|": [
+  84.862,
+  24.106
+ ],
+ "Chennai|": [
+  80.281,
+  13.08
+ ],
+ "Chhapra|Bihar": [
+  84.785,
+  25.773
+ ],
+ "Chhatarpur|Madhya Pradesh": [
+  79.678,
+  24.761
+ ],
+ "Churu|Rajasthan": [
+  74.691,
+  28.205
+ ],
+ "Coimbatore|Tamil Nadu": [
+  76.963,
+  11.002
+ ],
+ "Cuttack|Odisha": [
+  85.879,
+  20.469
+ ],
+ "Dahanu|": [
+  72.734,
+  19.989
+ ],
+ "Daltonganj|": [
+  84.066,
+  24.04
+ ],
+ "Daltonganj|Jharkhand": [
+  84.066,
+  24.04
+ ],
+ "Dantewada|": [
+  81.383,
+  18.864
+ ],
+ "Dehradun|": [
+  78.044,
+  30.326
+ ],
+ "Dehradun|Uttarakhand": [
+  78.044,
+  30.326
+ ],
+ "Delhi|Delhi": [
+  77.217,
+  28.666
+ ],
+ "Devgad|": [
+  73.38,
+  16.377
+ ],
+ "Dhanbad|": [
+  86.431,
+  23.795
+ ],
+ "Dibrugarh|Assam": [
+  94.902,
+  27.484
+ ],
+ "Dimapur|Nagaland": [
+  93.718,
+  25.904
+ ],
+ "Ganderbal|J&K": null,
+ "Ganderbal|Jammu and Kashmir": [
+  75.041,
+  34.289
+ ],
+ "Gangawati|Karnataka": [
+  76.739,
+  15.721
+ ],
+ "Gangtok|Sikkim": [
+  88.612,
+  27.329
+ ],
+ "Gaya|": [
+  85.008,
+  24.796
+ ],
+ "Gaya|Bihar": [
+  85.008,
+  24.796
+ ],
+ "Gokak|Karnataka": [
+  74.822,
+  16.169
+ ],
+ "Gopalpur|Odisha": [
+  84.905,
+  19.26
+ ],
+ "Gopikandar|Jharkhand": [
+  87.509,
+  24.427
+ ],
+ "Gulbarga|Karnataka": [
+  76.833,
+  17.331
+ ],
+ "Guna|Madhya Pradesh": [
+  77.26,
+  24.5
+ ],
+ "Gurdaspur|": [
+  75.228,
+  31.904
+ ],
+ "Hanamkonda|Telangana": [
+  79.558,
+  18.007
+ ],
+ "Harnai|": [
+  73.092,
+  17.813
+ ],
+ "Hayuliang|Arunachal Pradesh": [
+  96.543,
+  28.076
+ ],
+ "Hisar|": [
+  75.817,
+  29.24
+ ],
+ "Hisar|Haryana": [
+  75.817,
+  29.24
+ ],
+ "Hissar|": [
+  75.184,
+  29.116
+ ],
+ "Hissar|Haryana": [
+  76.469,
+  29.769
+ ],
+ "Hyderabad|": [
+  78.474,
+  17.361
+ ],
+ "Imphal|Manipur": [
+  93.936,
+  24.799
+ ],
+ "Indore|": [
+  75.868,
+  22.72
+ ],
+ "Indore|Madhya Pradesh": [
+  75.868,
+  22.72
+ ],
+ "Jabalpur|Madhya Pradesh": [
+  79.932,
+  23.17
+ ],
+ "Jagdalpur|Chattisgarh": [
+  82.024,
+  19.087
+ ],
+ "Jagdalpur|Chhattisgarh": [
+  82.024,
+  19.087
+ ],
+ "Jaipur|Rajasthan": [
+  75.819,
+  26.915
+ ],
+ "Jalandhar|Punjab": [
+  75.568,
+  31.292
+ ],
+ "Jalgaon|Maharashtra": [
+  75.526,
+  20.843
+ ],
+ "Jalpaiguri|West Bengal": [
+  88.733,
+  26.626
+ ],
+ "Jammu|J&K": null,
+ "Jammu|Jammu and Kashmir": [
+  74.858,
+  32.719
+ ],
+ "Jamnagar|": [
+  70.055,
+  22.473
+ ],
+ "Jamshedpur|Jharkhand": [
+  86.203,
+  22.802
+ ],
+ "Jamui|": [
+  86.301,
+  24.756
+ ],
+ "Jhalawar|Rajasthan": [
+  76.522,
+  24.313
+ ],
+ "Jhansi|Uttar Pradesh": [
+  78.653,
+  25.53
+ ],
+ "Jhunjhunu|": [
+  75.542,
+  28.08
+ ],
+ "Jodhpur|": [
+  73.035,
+  26.297
+ ],
+ "Jodhpur|Rajasthan": [
+  73.035,
+  26.297
+ ],
+ "Kailashahar|": [
+  92.004,
+  24.278
+ ],
+ "Kalaburagi|": [
+  76.77,
+  17.241
+ ],
+ "Kalingapatnam|": [
+  84.121,
+  18.341
+ ],
+ "Kalingapatnam|Andhra Pradesh": [
+  84.121,
+  18.341
+ ],
+ "Kanpur|Uttar Pradesh": [
+  80.322,
+  26.461
+ ],
+ "Kargil|J&K": null,
+ "Kargil|Jammu and Kashmir": [
+  74.771,
+  34.075
+ ],
+ "Karnal|": [
+  76.911,
+  29.726
+ ],
+ "Karwar|Karnataka": [
+  74.132,
+  14.812
+ ],
+ "Khandwa|Madhya Pradesh": [
+  76.568,
+  21.977
+ ],
+ "Kochi|Kerala": [
+  76.244,
+  9.968
+ ],
+ "Kodaikanal|": [
+  77.492,
+  10.234
+ ],
+ "Kolhapur|Maharashtra": [
+  74.241,
+  16.703
+ ],
+ "Komna|Odisha": [
+  82.53,
+  20.533
+ ],
+ "Kondagaon|Chattisgarh": [
+  81.663,
+  19.589
+ ],
+ "Kondagaon|Chhattisgarh": [
+  81.663,
+  19.589
+ ],
+ "Koppal|": [
+  76.312,
+  15.575
+ ],
+ "Koraput|": [
+  82.61,
+  18.723
+ ],
+ "Kota|Rajasthan": [
+  75.857,
+  25.174
+ ],
+ "Kozhikode|Kerala": [
+  75.775,
+  11.245
+ ],
+ "Ladakh|Ladakh": [
+  77.411,
+  34.185
+ ],
+ "Lamding|": [
+  93.173,
+  25.754
+ ],
+ "Ludhiana|Punjab": [
+  75.852,
+  30.909
+ ],
+ "Madhubani|": [
+  86.23,
+  26.35
+ ],
+ "Madikeri|Karnataka": [
+  75.739,
+  12.421
+ ],
+ "Mainpuri|Uttar Pradesh": [
+  79.063,
+  27.209
+ ],
+ "Malegaon|Maharashtra": [
+  74.525,
+  20.558
+ ],
+ "Mandi|": [
+  77.009,
+  31.652
+ ],
+ "Mandla|": [
+  80.582,
+  22.687
+ ],
+ "Mangalore|": [
+  74.843,
+  12.87
+ ],
+ "Mangaluru|Karnataka": [
+  74.843,
+  12.87
+ ],
+ "Medikeri|Karnataka": null,
+ "Meerut|": [
+  77.768,
+  29.002
+ ],
+ "Mengluru|Karnataka": null,
+ "Mirzapur|": [
+  82.628,
+  24.932
+ ],
+ "Motihari|": [
+  84.911,
+  26.651
+ ],
+ "Mumbai|Maharashtra": [
+  72.869,
+  19.055
+ ],
+ "Muzaffarpur|": [
+  85.332,
+  26.148
+ ],
+ "Mysuru|Karnataka": [
+  76.653,
+  12.304
+ ],
+ "Nagercoil|Tamil Nadu": [
+  77.432,
+  8.184
+ ],
+ "Nagpur|Maharashtra": [
+  79.082,
+  21.15
+ ],
+ "Nandyal|": [
+  78.481,
+  15.474
+ ],
+ "Naugaon|": [
+  86.204,
+  20.106
+ ],
+ "Neemuch|": [
+  75.183,
+  24.631
+ ],
+ "Nimach|Madhya Pradesh": [
+  74.85,
+  24.462
+ ],
+ "Nizamabad|": [
+  78.098,
+  18.673
+ ],
+ "North Lakhimpur|": [
+  94.112,
+  27.254
+ ],
+ "Ongole|Andhra Pradesh": [
+  80.05,
+  15.506
+ ],
+ "Ooty|": [
+  76.703,
+  11.413
+ ],
+ "Palampur|Himachal Pradesh": [
+  76.536,
+  32.11
+ ],
+ "Palin|Arunachal Pradesh": [
+  93.63,
+  27.695
+ ],
+ "Pamban|": [
+  79.213,
+  9.282
+ ],
+ "Panjim|": [
+  73.828,
+  15.499
+ ],
+ "Panjim|Goa": [
+  73.828,
+  15.499
+ ],
+ "Paradeep|": [
+  86.612,
+  20.28
+ ],
+ "Parbhani|Maharashtra": [
+  76.603,
+  19.29
+ ],
+ "Patna|Bihar": [
+  85.124,
+  25.609
+ ],
+ "Patti|Punjab": [
+  74.855,
+  31.28
+ ],
+ "Pendra Road|Chattisgarh": [
+  81.899,
+  22.756
+ ],
+ "Pendra Road|Chhattisgarh": [
+  81.899,
+  22.756
+ ],
+ "Phulbani|": [
+  84.235,
+  20.476
+ ],
+ "Pokharan|Rajasthan": [
+  71.92,
+  26.92
+ ],
+ "Porbandar|": [
+  69.657,
+  21.651
+ ],
+ "Port Blair|Andaman and Nicobar Islands": [
+  92.739,
+  11.665
+ ],
+ "Port Blair|Andman Nicobar": [
+  92.739,
+  11.665
+ ],
+ "Pune|": [
+  73.855,
+  18.521
+ ],
+ "Pune|Maharashtra": [
+  73.855,
+  18.521
+ ],
+ "Puri|Odisha": [
+  85.825,
+  19.808
+ ],
+ "Purnea|Bihar": [
+  87.473,
+  25.777
+ ],
+ "Purulia|": [
+  86.323,
+  23.202
+ ],
+ "Raiganj|": [
+  88.132,
+  25.627
+ ],
+ "Raipur|": [
+  81.634,
+  21.238
+ ],
+ "Raipur|Chattisgarh": [
+  81.634,
+  21.238
+ ],
+ "Raipur|Chhattisgarh": [
+  81.634,
+  21.238
+ ],
+ "Rajgarh (Dist Churu)|": [
+  75.385,
+  28.642
+ ],
+ "Rajkot|Gujarat": [
+  70.803,
+  22.305
+ ],
+ "Ranchi|": [
+  85.325,
+  23.37
+ ],
+ "Ranchi|Jharkhand": [
+  85.325,
+  23.37
+ ],
+ "Roorkee|Uttarakhand": [
+  77.89,
+  29.869
+ ],
+ "Sagar|": [
+  78.758,
+  23.808
+ ],
+ "Sagar|Madhya Pradesh": [
+  78.758,
+  23.808
+ ],
+ "Salem|": [
+  78.211,
+  11.647
+ ],
+ "Sambalpur|Odisha": [
+  84.153,
+  21.557
+ ],
+ "Satara|Maharashtra": [
+  74.298,
+  17.636
+ ],
+ "Satna|Madhya Pradesh": [
+  80.777,
+  24.695
+ ],
+ "Seoni|Madhya Pradesh": [
+  79.72,
+  22.275
+ ],
+ "Shajapur|": [
+  76.607,
+  23.417
+ ],
+ "Shimla|Himachal Pradesh": [
+  77.171,
+  31.104
+ ],
+ "Shimoga|Karnataka": [
+  75.238,
+  14.056
+ ],
+ "Sibsagar|Assam": [
+  94.639,
+  26.983
+ ],
+ "Sidhi|": [
+  81.7,
+  24.211
+ ],
+ "Silchar|Assam": [
+  92.788,
+  24.83
+ ],
+ "Siliguri|": [
+  88.431,
+  26.716
+ ],
+ "Sirkonda|Telangana": [
+  78.696,
+  18.763
+ ],
+ "Sirpur|Telangana": [
+  79.572,
+  19.478
+ ],
+ "Solapur|": [
+  75.276,
+  17.85
+ ],
+ "Sompeta|Andhra Pradesh": [
+  84.584,
+  18.942
+ ],
+ "Sonepat|Haryana": [
+  77.151,
+  28.99
+ ],
+ "Srinagar-Kyonon Road|Ladakh": null,
+ "Sundargarh|": [
+  83.936,
+  22.061
+ ],
+ "Surat|": [
+  72.832,
+  21.209
+ ],
+ "Suryapet|Telangana": [
+  79.793,
+  17.08
+ ],
+ "Tezpur|Assam": [
+  92.798,
+  26.623
+ ],
+ "Thethaitangar|Jharkhand": [
+  84.448,
+  22.502
+ ],
+ "Thiruvananthapuram|Kerala": [
+  76.948,
+  8.488
+ ],
+ "Thoothukudi|": [
+  77.994,
+  8.846
+ ],
+ "Thrissur|Kerala": [
+  76.274,
+  10.479
+ ],
+ "Tirupati|Andhra Pradesh": [
+  79.423,
+  13.632
+ ],
+ "Tiruvananthpuram|Kerala": null,
+ "Tonk|": [
+  75.663,
+  26.122
+ ],
+ "Tulasipur|Uttar Pradesh": null,
+ "Tulsipur|Uttar Pradesh": [
+  82.409,
+  27.532
+ ],
+ "Tuticorin|Tamil Nadu": [
+  78.145,
+  8.805
+ ],
+ "Udaipur|": [
+  73.686,
+  24.579
+ ],
+ "Udaipur|Rajasthan": [
+  73.686,
+  24.579
+ ],
+ "Udgir|Maharashtra": [
+  77.12,
+  18.392
+ ],
+ "Uthagamandalam|": null,
+ "Vadodara|Gujarat": [
+  73.194,
+  22.297
+ ],
+ "Vallabh Vidyanagar|": [
+  72.93,
+  22.552
+ ],
+ "Varanasi|Uttar Pradesh": [
+  83.008,
+  25.336
+ ],
+ "Veraval|Gujarat": [
+  70.365,
+  20.91
+ ],
+ "Visakhapatnam|Andhra Pradesh": [
+  83.292,
+  17.694
+ ],
+ "Vishakhapatnam|Andhra Pradesh": null,
+ "Wardha|": [
+  78.613,
+  20.826
+ ],
+ "Zamania|Uttar Pradesh": [
+  83.669,
+  25.455
+ ]
+}
