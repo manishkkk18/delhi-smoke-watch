@@ -4,9 +4,6 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 npm run build
-# The Monsoon project (../monsoon) is a separate static site with no build step: publish it at /monsoon/.
-mkdir -p dist/monsoon
-cp -r ../monsoon/index.html ../monsoon/favicon.svg ../monsoon/og.png ../monsoon/css ../monsoon/js ../monsoon/vendor ../monsoon/data dist/monsoon/
 REMOTE="${DEPLOY_REMOTE:-$(git -C .. remote get-url origin)}"
 NAME="$(git -C .. config user.name || true)"
 EMAIL="$(git -C .. config user.email || true)"

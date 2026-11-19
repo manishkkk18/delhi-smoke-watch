@@ -1,6 +1,0 @@
-numpy>=2.1
-netCDF4>=1.7
-shapely>=2.0
-requests>=2.32
-pdfplumber>=0.11
-pypdf>=5
